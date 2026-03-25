@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website showcasing my projects, skills, and education as a Software Engineering student. Built with Next.js, TypeScript, and Tailwind CSS for optimal performance and maintainability.
 
+## 🌐 Live Demo
+
+**[View Live Portfolio →](https://portfolio-website-chi-ten-54.vercel.app/)**
+
 ![Portfolio Preview](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)
