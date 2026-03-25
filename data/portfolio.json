@@ -1,0 +1,45 @@
+{
+  "personal": {
+    "name": "ISHIMWE Honore",
+    "title": "Software Engineer",
+    "tagline": "Building elegant solutions to complex problems",
+    "email": "ishimwehonore450@gmail.com",
+    "github": "https://github.com/4honore",
+    "linkedin": "https://www.linkedin.com/in/honore-ishimwe-26940a388/",
+    "bio": "Passionate software engineer with expertise in full-stack development. I love creating efficient, scalable applications and learning new technologies."
+  },
+  "skills": {
+    "Frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    "Backend": ["Node.js","java", "Python", "Express","spring-boot", "PostgreSQL"],
+    "Tools": ["Git", "Docker", "VS Code","postman", "Linux"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Key Law Chambers Ltd",
+      "description": "A professional legal services website featuring comprehensive practice area showcases, responsive design, and client-focused information architecture. Built to provide an elegant digital presence for a law firm.",
+      "tech": ["Next.js", "React", "Tailwind CSS", "TypeScript"],
+      "github": "https://github.com/4honore/keyLowChamberLTD",
+      "demo": "https://key-law-chamber-ltd.vercel.app",
+      "image": "/projects/project1.png"
+    },
+    {
+      "id": 2,
+      "title": "Traditional Attire Application",
+      "description": "A modern e-commerce platform showcasing traditional clothing and cultural attire. Features an intuitive shopping experience with React and Vite for optimal performance and fast page loads.",
+      "tech": ["React", "Vite", "JavaScript", "CSS"],
+      "github": "https://github.com/4honore/tradition-app-react",
+      "demo": "https://tradition-app-react.vercel.app",
+      "image": "/projects/project2.png"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Software Engineering",
+      "institution": "Adventist University of Central Africa (AUCA)",
+      "period": "Expected 2027",
+      "description": "Focused on full-stack development, software design patterns, and modern web technologies. Building practical projects to apply theoretical knowledge."
+    }
+  ]
+}
